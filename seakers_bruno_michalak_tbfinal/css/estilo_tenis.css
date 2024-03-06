@@ -1,0 +1,112 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-image:linear-gradient(to right,#330000,#a42c2b);
+    width: 90%;
+    margin: 0 auto;
+}
+header{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: black;
+    border-radius:10px ;
+    box-shadow: 10px 10px 10px #330000;
+}
+.marcas img.displayed{
+    width: 30%;
+    padding-top: 50px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;   
+}
+.navegacao{
+    overflow: hidden;
+}
+.navegacao a{
+    float: right;
+    color:#a42c2b ;
+    text-decoration: none;
+    text-align: right;
+    padding: 10px 10px;
+}
+.navegacao a:hover{
+    color: black;
+    background-color:#4f0b0b ;
+}
+.adidas1{
+    float: left;
+    margin: 15px 2px 25px 2px;
+    background-color: white;
+    width: 30%;
+    text-align: justify;
+    padding: 15px;
+    border-radius:10px ;
+    box-shadow:10px 10px 10px #010d23;
+}
+.nike1{
+    float: left;
+    margin: 15px 2px 25px 2px;
+    background-color: white;
+    width: 30%;
+    text-align: justify;
+    padding: 15px;
+    border-radius:10px ;
+    box-shadow:10px 10px 10px #010d23;
+}
+.qix1{
+    float: left;
+    margin: 15px 2px 25px 2px;
+    background-color: white;
+    width: 30%;
+    text-align: justify;
+    padding: 15px;
+    border-radius:10px ;
+    box-shadow:10px 10px 10px #010d23;
+}
+.puma1{
+    float: left;
+    margin: 15px 2px 25px 2px;
+    background-color: white;
+    width: 30%;
+    text-align: justify;
+    padding: 15px;
+    border-radius:10px ;
+    box-shadow:10px 10px 10px #010d23;
+}
+.jordan1{
+    float: left;
+    margin: 15px 2px 25px 2px;
+    background-color: white;
+    width: 30%;
+    text-align: justify;
+    padding: 15px;
+    border-radius:10px ;
+    box-shadow:10px 10px 10px #010d23;
+}
+.new{
+    float: left;
+    margin: 15px 2px 25px 2px;
+    background-color: white;
+    width: 30%;
+    text-align: justify;
+    padding: 15px;
+    border-radius:10px ;
+    box-shadow:10px 10px 10px #010d23;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;  
+}
+a{
+    float: right;
+    color:#a42c2b ;
+    text-decoration: none;
+    text-align: right;
+    padding: 10px 10px;
+}
+a:hover{
+    color: white;
+    background-color:black ;
+}
+h2{
+    font-style: italic;
+}
