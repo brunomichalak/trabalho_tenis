@@ -1,7 +1,7 @@
 body{
     font-family: Arial, Helvetica, sans-serif;
     background-image:linear-gradient(to right,#010d23,#038bbb);
-    width: 90%;
+    width: 80%;
     margin: 0 auto;
 }
 header{
@@ -100,3 +100,8 @@ a:hover{
     color: #fccb6f;
     background-color: #03223f;
 }
+footer{
+    background-color: #e19f41;
+    margin: 90% 2px 25px 2px;
+}
+
